@@ -27,6 +27,7 @@ The commands that we used in this project :
 
 
 I have done & solve the following tasks & queries:
+
 Task. 1) Is there any Duplicate Record in this dataset ? If yes, then remove the duplicate records.
 Task. 2) Is there any Null Value present in any column ? Show with Heat-map.
 Q. 1) For 'House of Cards', what is the Show Id and Who is the Director of this show ?
